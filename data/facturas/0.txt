@@ -1,0 +1,7 @@
+nombre:th
+Dirección: th
+id. Pedido: 0
+--------------------
+Total Neto: 0
+Iva 0
+Total: 0
